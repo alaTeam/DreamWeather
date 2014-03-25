@@ -1,0 +1,41 @@
+PODS:
+  - ASIHTTPRequest (1.8.2):
+    - ASIHTTPRequest/ASIWebPageRequest
+    - ASIHTTPRequest/CloudFiles
+    - ASIHTTPRequest/Core
+    - ASIHTTPRequest/S3
+  - ASIHTTPRequest/ASIWebPageRequest (1.8.2):
+    - ASIHTTPRequest/Core
+  - ASIHTTPRequest/CloudFiles (1.8.2):
+    - ASIHTTPRequest/Core
+  - ASIHTTPRequest/Core (1.8.2):
+    - Reachability
+  - ASIHTTPRequest/S3 (1.8.2):
+    - ASIHTTPRequest/Core
+  - GDataXML-HTML (1.1.0)
+  - JSONKit (1.5pre)
+  - LBBlurredImage (0.2.0)
+  - Reachability (3.1.1)
+  - SDWebImage (3.5.4):
+    - SDWebImage/Core
+  - SDWebImage/Core (3.5.4)
+  - UMeng (2.2.1)
+
+DEPENDENCIES:
+  - ASIHTTPRequest
+  - GDataXML-HTML (~> 1.1.0)
+  - JSONKit
+  - LBBlurredImage
+  - SDWebImage (~> 3.5.4)
+  - UMeng (~> 2.2.1)
+
+SPEC CHECKSUMS:
+  ASIHTTPRequest: 4bd3ed65bf8a726292c5fa79ea5c0a2e02c97241
+  GDataXML-HTML: 281ea772a286241f860fa152cff5c7a7cd817336
+  JSONKit: 409734ab3407fce90ef7eaa95d7168f38d9a6601
+  LBBlurredImage: 26bacd10063a6e886de6a374f4727c3cefb22fc2
+  Reachability: be4883bb93f31e38266ae3365e5600a317aae735
+  SDWebImage: 1a62010700adbba823b621fc217906739dbf6aa5
+  UMeng: b1961bebd2687412643ba31b363ec8ea5374f42b
+
+COCOAPODS: 0.29.0

@@ -1,0 +1,12 @@
+platform:ios,'6.0'
+pod 'JSONKit'
+pod 'ASIHTTPRequest'
+pod 'SDWebImage', '~> 3.5.4'
+pod 'LBBlurredImage' 
+pod 'GDataXML-HTML', '~> 1.1.0'
+
+
+pod 'UMeng', '~> 2.2.1'
+
+
+
